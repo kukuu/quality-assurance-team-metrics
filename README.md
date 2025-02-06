@@ -11,4 +11,4 @@ Together, QA and QC activities contribute to ensuring that the final product or 
 
 https://github.com/kukuu/AGILITY/blob/master/QA.md
  
-
+ 
