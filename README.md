@@ -10,5 +10,5 @@ It's important to note that QA is distinct from Quality Control (QC), which invo
 Together, QA and QC activities contribute to ensuring that the final product or service meets the desired level of quality, reliability, and customer satisfaction.
 
 https://github.com/kukuu/AGILITY/blob/master/QA.md
-
+ 
 
