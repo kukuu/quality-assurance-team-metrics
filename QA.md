@@ -2,7 +2,7 @@
 The primary objectives of QA include: 
 
 ### Defining Quality Standards: 
-QA establishes the criteria and quality standards that need to be met for a product or service. These standards can be based on industry best practices, customer requirements, regulatory guidelines, or internal policies.
+QA establishes the criteria and quality standards and protocols that need to be met for a product or service. These standards can be based on industry best practices, customer requirements, regulatory guidelines, or internal policies.
 
 ### Process Improvement: 
 QA aims to improve and optimize the processes involved in software development and testing. It involves identifying areas of inefficiency or potential risks and implementing measures to mitigate them.
