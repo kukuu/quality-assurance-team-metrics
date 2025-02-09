@@ -20,7 +20,7 @@ At Marks & Spencer, I noticed that the team was spending too much time on manual
 
 _Action:_ I introduced automated testing frameworks like Jest and Cypress and set up a CI/CD pipeline using GitHub Actions. I also tracked metrics like test coverage, defect density, and mean time to recovery (MTTR) to measure progress.
 
-_ Result:_ Test coverage increased from 60% to 90%, and the time to release new features was reduced by 50%.
+_Result:_ Test coverage increased from 60% to 90%, and the time to release new features was reduced by 50%.
 
 ..furter Metrics
 Technical Metrics:
