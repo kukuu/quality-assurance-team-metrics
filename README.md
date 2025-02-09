@@ -10,21 +10,17 @@ It's important to note that QA is distinct from Quality Control (QC), which invo
 Together, QA and QC activities contribute to ensuring that the final product or service meets the desired level of quality, reliability, and customer satisfaction.
 
 
-# Team Metrics
+# Team Metrics & Continuous Improvement
 
-Metrics & Continuous Improvement
-Competency: Data-Driven Decision Making
-Question: How do you use data and metrics to guide technical decisions and improve team performance?
+Using data and metrics to guide technical decisions and improve team performance
 
-Answer (STAR):
+_Scenario:_
 
-i. Situation: At Marks & Spencer, I noticed that the team was spending too much time on manual testing, which was slowing down releases.
+At Marks & Spencer, I noticed that the team was spending too much time on manual testing, which was slowing down releases and  needed to improve the efficiency of the testing process without compromising quality.
 
-ii. Task: I needed to improve the efficiency of the testing process without compromising quality.
+_Action:_ I introduced automated testing frameworks like Jest and Cypress and set up a CI/CD pipeline using GitHub Actions. I also tracked metrics like test coverage, defect density, and mean time to recovery (MTTR) to measure progress.
 
-iii. Action: I introduced automated testing frameworks like Jest and Cypress and set up a CI/CD pipeline using GitHub Actions. I also tracked metrics like test coverage, defect density, and mean time to recovery (MTTR) to measure progress.
-
-iv. Result: Test coverage increased from 60% to 90%, and the time to release new features was reduced by 50%.
+_ Result:_ Test coverage increased from 60% to 90%, and the time to release new features was reduced by 50%.
 
 ..furter Metrics
 Technical Metrics:
